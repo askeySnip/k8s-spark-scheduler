@@ -23,10 +23,10 @@ require (
 	go.uber.org/atomic v1.6.0
 	google.golang.org/genproto v0.0.0-20200115191322-ca5a22157cba // indirect
 	google.golang.org/grpc v1.26.0 // indirect
-	k8s.io/api v0.17.6
-	k8s.io/apiextensions-apiserver v0.17.6
-	k8s.io/apimachinery v0.17.6
-	k8s.io/client-go v0.17.6
+	k8s.io/api v0.18.8
+	k8s.io/apiextensions-apiserver v0.18.8
+	k8s.io/apimachinery v0.18.8
+	k8s.io/client-go v0.18.8
 	k8s.io/kubernetes v1.17.6
 	k8s.io/utils v0.0.0-20200109141947-94aeca20bf09 // indirect
 )
